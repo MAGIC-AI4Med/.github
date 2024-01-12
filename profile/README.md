@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We are a AI4Med team from Shanghai Jiao Tong University.
+We are a AI4Med team from Shanghai Jiao Tong University, and Shanghai AI Lab.
 
 <!--
 
